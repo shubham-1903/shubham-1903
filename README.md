@@ -23,7 +23,6 @@
 [<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shubham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
 
 ### Languages and Tools:
@@ -54,14 +53,12 @@
 
 </details>
 
-<br />
-<br />
-
 ---
+<br />
 
 <details>
   <summary>:zap: Most Used Language</summary>
-
+<br/>
   <img align="left" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
 
 </details>
@@ -75,4 +72,3 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
