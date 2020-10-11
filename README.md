@@ -48,8 +48,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shubham-1903&show_icons=true&hide_border=true" />
+  <img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shubham-1903&show_icons=true&hide_border=true&theme=radical" />
 
+</details>
+
+<details>
+  <summary>:zap: Most Used Language</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://shubham-kumar-1903.netlify.appm
@@ -61,3 +66,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
