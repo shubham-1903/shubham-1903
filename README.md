@@ -54,7 +54,7 @@
 
 <details>
   <summary>:zap: Most Used Language</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
 </details>
 
 [website]: https://shubham-kumar-1903.netlify.appm
