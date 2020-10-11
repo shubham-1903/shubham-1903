@@ -50,7 +50,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shubham-1903&show_icons=true&hide_border=true&theme=radical" />
-  <br />
 </details>
 
 ---
