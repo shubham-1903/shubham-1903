@@ -22,7 +22,7 @@
 [<img align="left" alt="Shubham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shubham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Shubham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br />
 
@@ -63,7 +63,6 @@
 [twitter]: https://twitter.com/8b6bb3c198d34f1?s=08
 [youtube]: https://www.youtube.com/channel/UCZOUh_EshCmOLV9LFDJFmpr
 [instagram]: https://www.instagram.com/shubhamkumar1958r
-[facebook] : https://www.facebook.com/profile.php?id=100008606535834
 [linkedin]: https://www.linkedin.com/in/shubham-kumar-13a9051a9
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
