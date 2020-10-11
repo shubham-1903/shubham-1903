@@ -1,6 +1,6 @@
-### Hi there, I'm Shubham - aka [selfLearner][website] 👋
+### Hi there, I'm Shubham - aka [SelfLEARNER][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubham-kumar-1903.netlify.appmm)
+[![Website](https://img.shields.io/website?label=shubham-kumar-1903.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubham-kumar-1903.netlify.appmm)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/8b6bb3c198d34f1?s=08r)
 
 ## I'm a student,self-learner!!
