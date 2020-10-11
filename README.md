@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham - aka [SelfLEARNER][website] 👋
 
 [![Website](https://img.shields.io/website?label=shubham-kumar-1903.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubham-kumar-1903.netlify.appmm)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/8b6bb3c198d34f1?s=08r)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shubham?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/8b6bb3c198d34f1?s=08r)
 
 ## I'm a student,self-learner!!
 
@@ -17,11 +17,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shubham.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shubham | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Shubham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shubham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shubham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -55,13 +56,14 @@
 <br />
 <details>
   <summary>:zap: Most Used Language</summary>
-  <img align="right" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
+  <img align="left" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
 </details>
 
 [website]: https://shubham-kumar-1903.netlify.appm
 [twitter]: https://twitter.com/8b6bb3c198d34f1?s=08
 [youtube]: https://www.youtube.com/channel/UCZOUh_EshCmOLV9LFDJFmpr
 [instagram]: https://www.instagram.com/shubhamkumar1958r
+[facebook] : https://www.facebook.com/profile.php?id=100008606535834
 [linkedin]: https://www.linkedin.com/in/shubham-kumar-13a9051a9
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
