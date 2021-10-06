@@ -45,6 +45,7 @@
 <br />
 
 ---
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shubham-1903/shubham-1903/blob/master/devcard.svg" width="400" alt="Shubham Kumar Dev Card"/></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
