@@ -5,13 +5,21 @@
 
 ## I'm a developer,self-learner!!
 
-- 🔭 I'm currently more focused on learning react(lovely library)
+- 🔭 I'm currently more focused on learning React,Python(lovely library)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
+<<<<<<< HEAD
 - 🥅 2022 Goals: Contribute more to Open Source projects
+=======
+- 🥅 2021 Goals: Start Contributing to Open Source projects
+>>>>>>> 4aeb16320374b298a180417d819b36324f8abaa5
 - ⚡ Fun fact: I love to draw and play cricket
 
 
+<<<<<<< HEAD
+=======
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shubham Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+>>>>>>> 4aeb16320374b298a180417d819b36324f8abaa5
 
 ### Connect with me:
 
@@ -37,6 +45,9 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][webdevplaylist]
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
@@ -44,11 +55,15 @@
 
 ---
 
+
+[<img src="https://github.com/shubham-1903/shubham-1903/blob/master/devcard.svg" width="400" alt="Shubham Kumar Dev Card" />]("https://app.daily.dev/skwebworld")
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shubham-1903&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-1903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
 </details>
+
 
 ---
 <br />
