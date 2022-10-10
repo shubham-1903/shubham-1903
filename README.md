@@ -59,13 +59,13 @@
 
 
 
-<img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-1903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />  <br/>
+<img align="right" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-1903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />  <br/>
 
 
 
 ## ✍️✍️ <br/>
 
-  <img align="left" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
+  <img align="right" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
 
 
 
