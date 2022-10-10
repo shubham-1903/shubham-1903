@@ -12,14 +12,13 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 =======
 - 🥅 2021 Goals: Start Contributing to Open Source projects
->>>>>>> 4aeb16320374b298a180417d819b36324f8abaa5
+
 - ⚡ Fun fact: I love to draw and play cricket
 
 
-<<<<<<< HEAD
+
 =======
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shubham Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
->>>>>>> 4aeb16320374b298a180417d819b36324f8abaa5
+
 
 ### Connect with me:
 
@@ -56,24 +55,22 @@
 ---
 
 
-[<img src="https://github.com/shubham-1903/shubham-1903/blob/master/devcard.svg" width="400" alt="Shubham Kumar Dev Card" />]("https://app.daily.dev/skwebworld")
+[<img src="https://raw.githubusercontent.com/shubham-1903/shubham-1903/84d25b35fc892634ff2186f50a09732b3797e487/devcard.svg" width="200" alt="Shubham Kumar Dev Card" />]("https://app.daily.dev/skwebworld")
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 
   <img align="left" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-1903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-</details>
+  <br/>
 
 
----
+<br />
 <br />
 
-<details>
-  <summary>:zap: Most Used Language</summary>
-<br />
+## ✍️✍️
+<br/>
   <img align="left" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
 
-</details>
+
 
 [website]: https://shubham-kumar-1903.netlify.appm
 [twitter]: https://twitter.com/8b6bb3c198d34f1?s=08
