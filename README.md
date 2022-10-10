@@ -3,21 +3,19 @@
 [![Website](https://img.shields.io/website?label=shubham-kumar-1903.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubham-kumar-1903.netlify.appmm)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shubham?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/8b6bb3c198d34f1?s=08r)
 
-## I'm a student,self-learner!!
+## I'm a developer,self-learner!!
 
 - 🔭 I'm currently more focused on learning react(lovely library)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play cricket
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="Shubham.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shubham.com" width="22px" background="red" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shubham | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Shubham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
