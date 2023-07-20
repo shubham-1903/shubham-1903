@@ -18,7 +18,8 @@
 
 - 🤝 Reach me at : 
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-shubhamkr7677@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamkr7677@gmail.com)](mailto:shubhamkr7677@gmail.com)
+<img src="https://img.shields.io/badge/-shubhamkr7677@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamkr7677@gmail.com">
+
 
 
 
