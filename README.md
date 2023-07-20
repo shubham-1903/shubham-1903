@@ -1,77 +1,110 @@
-### Hi there, I'm Shubham - aka [SelfLEARNER][website] 👋
+<h2 align="center" style="font-family: 'Lucida Console';">Hi, I'm Shubham 👋👻</h2>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-[![Website](https://img.shields.io/website?label=shubham-kumar-1903.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubham-kumar-1903.netlify.appmm)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shubham?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/8b6bb3c198d34f1?s=08r)
+<!-- [![Website](https://img.shields.io/website?label=shubham-kumar-1903.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubham1903-portfolio.netlify.app/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_shubham_.kr._) -->
+
+
 
 ## I'm a developer,self-learner!!
 
-- 🔭 I'm currently more focused on learning React,Python(lovely library)
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently more focused on learning new technology
+
 - 👯 I’m looking to collaborate with other content creators
-<<<<<<< HEAD
+
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to draw and play cricket
 
+- 🤝 Reach me at : 
+<br/>
+[![Gmail Badge](https://img.shields.io/badge/-shubhamkr7677@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamkr7677@gmail.com)](mailto:shubhamkr7677@gmail.com)
 
 
-=======
+
 
 
 ### Connect with me:
 
-[<img align="left" alt="Shubham.com" width="22px" background="red" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shubham | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Shubham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shubham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<p>
+<a href="https://www.facebook.com/sshubham1903" target="_blank">
+<img src="./facebook.png" width="50"/>
+</a href="https://www.instagram.com/_shubham_.kr._">
+<img src="./instagram.png" width="50"  />
+<a>
+</a>
+<a href="https://www.linkedin.com/in/sshubham1903/">
+<img src="./linkedin.png" width="50" />
+</a>
+<a href="https://www.figma.com/@skweb">
+<img src="./figma.png" width="45" />
+</a>
+</p>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][webdevplaylist]
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+<p>
+      <img align="right" alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/><br/ >
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/><br/>
+    <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/><br/>
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+    
+  </p>
 <br />
 <br />
 
----
 
+<br/>
+<p align="left">
+<img src="https://raw.githubusercontent.com/shubham-1903/shubham-1903/84d25b35fc892634ff2186f50a09732b3797e487/devcard.svg" width="200" alt="Shubham Kumar Dev Card" />
+</p>
+<br/>
 
-[<img src="https://raw.githubusercontent.com/shubham-1903/shubham-1903/84d25b35fc892634ff2186f50a09732b3797e487/devcard.svg" width="200" alt="Shubham Kumar Dev Card" />]("https://app.daily.dev/skwebworld")
 
 [![@shubham1903's Holopin board](https://holopin.me/shubham1903)](https://holopin.io/@shubham1903)
+<p align="center">
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="200"/>
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="200"/>
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="200"/>
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="200"/>
+</p>
+<p align="center">
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="200">
+</p>
 
 
-<img align="right" alt="shubham-1903's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-1903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />  <br/>
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-1903&show_icons=true&theme=transparent">
+</p>
 
-## ✍️✍️ <br/>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-  <img align="right" alt="shubham-1903's Github most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-1903&layout=compact" />
+<p align="center">
+        <img src="https://blog.stackfindover.com/wp-content/uploads/2021/10/wave-background-animation.gif" alt="Github Stats" width="100%" height="150"/>
+</p>
 
-
-
-[website]: https://shubham-kumar-1903.netlify.appm
-[twitter]: https://twitter.com/8b6bb3c198d34f1?s=08
+[website]: https://shubham1903-portfolio.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCZOUh_EshCmOLV9LFDJFmpr
-[instagram]: https://www.instagram.com/shubhamkumar1958r
+[instagram]: https://www.instagram.com/_shubham_.kr._
 [linkedin]: https://www.linkedin.com/in/shubham-kumar-13a9051a9
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
